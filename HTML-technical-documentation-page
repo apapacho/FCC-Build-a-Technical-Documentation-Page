@@ -1,0 +1,203 @@
+<nav id="navbar">
+  <header><b>Types of Programming Languages</b></header>
+  <ul>
+    <li><a class="nav-link" href="What_is_a_Programming_Language">What is a Programming Language</a></li>
+      <li>
+      <a class="nav-link" href="#What_is_necessary_to_know_before">What is Necessary to Know Before</a></li>
+    <li>
+      <a class="nav-link" href="#Most_Popular_Programming_Languages">Most Popular Programming Languages</a></li>
+    <li>
+      <a class="nav-link" href="#HTML">HTML</a></li>
+    <li>
+      <a class="nav-link" href="#CSS">CSS</a></li>
+    <li>
+      <a class="nav-link" href="#JavaScript_and_Java">JavaScript and Java</a></li>
+    <li>
+      <a class="nav-link" href="#Python">Python</a></li>
+    <li>
+      <a class="nav-link" href="#End_Front_or_Back_End">End Front or Back End</a></li>
+   
+    <li> 
+      <a class="nav-link" href="#References">References </a></li>
+    
+      <a class="nav-link" href="#Reference">Reference</a></li>
+  </ul>
+</nav>
+<html>
+  
+  
+ 
+<main id="main-doc">
+  <section class="main-section" id="What_is_a_Programming_Language">
+    <header>What is a Programming Language</header>
+     <body>
+    <article>
+      <p>A computer programming language is a program for expressing a set of detailed instructions for a computer, which involves algorithm to perform a specific task. It consist of instructions for computers. Thousand of programming language have been created since early 1950's and currently are being created more and more every year.
+      </p>
+    </article>
+  </section>
+  <section class="main-section" id="What_is_necessary_to_know_before">
+    <header>What is necessary to know before</header>
+    <article>
+      <p>
+        There are good news, everybody can learn how to program! You can learn it easily, only you will need:
+        <ul>
+<li>
+        It is very important to have a computer.
+          </li>
+          <li>
+            It would be great if you have good internet connection (this is fundamental to access to pages such as "codepen.io" to run and view developed content).
+          </li>
+          <li>
+          A understanding of the Internet and the World Wide Web (WW)
+          </li>
+          <li>
+            Knowledge about HyperText Markup Language (HTML) and
+          </li>
+          <li>
+            Some programming experience. If you are new, try several tutorials you can find in youtube.
+          </li>
+      </ul>
+    </article>
+  </section>
+  
+  <section class="main-section" id="Most_Popular_Programming_Languages"> 
+    <header>Most Popular Programming Languages</header>
+    
+    <article>
+<p> There are thousands of programming languages but the main recommendation is to pick two or three to specialize and be an expert using them. In Spanish there is a saying that apply to this situation: 
+  <blockquote class="quote">
+    <p><i>
+      "El que mucho abarca poco aprieta"</i>
+    </p>
+    </blockquote>
+      <p>
+        It means that when a person tries to undertake several things at the same time, he does not perform any of them well. In English it would say:
+        <blockquote class="quote">
+          <p><i>
+            "Don't bite off more than you can chew"</i>
+          </p>
+          </blockquote>
+      <p>Some of the most popular programmin languages are:</p>
+        <ul> 
+          <li>C, C++ and C# </li>
+          <li> JavaScript and Java </li>
+          <li>Python</li>
+          <li>Visual Basic</li>
+          <li>Assembly language</li>
+          <li>PHP</li>
+          <li>SQL</li>
+          <li>Ruby</li>
+      </ul>
+    </article>
+  </section>
+  <br>
+    <section class="main-section" id="HTML">
+      <header>HTML</header>
+      <article>
+        <p>HTML (Hypertext Markup Language) is not a programming language; it is a markup language used to tell your browser how to structure the web pages you visit. It can be as complicated or as simple as the web developer wishes it to be. HTML consists of a series of elements, which you use to enclose, wrap, or mark up different parts of the content to make it appear or act a certain way. The enclosing tags can make a bit of content into a hyperlink to link to another page on the web, italicize words, and so on.</p>
+        <code><h1> Hello World</h1></code>
+        
+       <p>If you want to make a button, you can do it using HTML <code><button type="button">Click Me!</button> </code> HTML is very useful in creating web pages.</p>
+      </article>
+    </section>
+    <br>
+    <section class="main-section" id="CSS">
+      <header>CSS </header>
+      <article>
+      <p> It is a cascading style sheet language and is used to style elements written in a markup language such as HTML. CSS separates the content from the visual representation of the site. The relationship between HTML and CSS is very strong. Since HTML is a markup language (that is, it forms the foundation of a site) and CSS emphasizes style (the entire aesthetic part of a website), they go hand in hand. An example of a CSS code is: </p>
+      <code> body {
+        min-width: 290px; </code>
+      <br>
+      <code> 
+        color: black;</code>
+      <br>
+      <code>
+        background-color: White;</code>
+      <br>
+      <code>
+        font-family:'Open Sans', Arial, sans-serif; </code>
+      <br>
+      <code>  line-height: 1.5;
+}
+      </code>
+      </article>
+  </section>
+    <br>
+  <section class="main-section" id="JavaScript and Java">
+    <header>JavaScript and Java</header>
+    <article>
+      <p>JavaScript is an interpreted programming language, dialect of the ECMAScript standard. It is defined as object-oriented, prototype-based, imperative, loosely typed, and dynamic.
+
+In contrast to Java's compile-time system of classes built by declarations, JavaScript supports a runtime system based on a small number of data types representing numeric, Boolean, and string values. JavaScript has a prototype-based object model instead of the more common class-based object model. The prototype-based model provides dynamic inheritance; that is, what is inherited can vary for individual objects. JavaScript also supports functions without any special declarative requirements. Functions can be properties of objects, executing as loosely typed methods.
+
+JavaScript is a very free-form language compared to Java. You do not have to declare all variables, classes, and methods. You do not have to be concerned with whether methods are public, private, or protected, and you do not have to implement interfaces. Variables, parameters, and function return types are not explicitly typed. For example, one of its codes is: </p>
+       <code
+        >function greetMe(yourName) { alert("Hello " + yourName); }
+        greetMe("World");
+      </code>
+    </article>
+    </section>
+    <br>
+    <section class="main-section" id="Python">
+      <header>Python</header>
+      <article>
+        <p>Python is an interpreted programming language whose philosophy emphasizes the readability of its code. It is a multi-paradigm programming language, since it partially supports object-orientation, imperative programming and, to a lesser extent, functional programming. It is an interpreted, dynamic and multiplatform language. An example of its codes is: </p>
+        <code>class Name: </code>
+<br> <code>
+    def __init__(self, name):
+        self._name = name </code>
+<br> <code>
+    @property
+    def name(self):
+        return self._name </code>
+<br> <code>
+    @name.setter
+    def name(self, new_name):
+        self._name = new_name </code>
+<br> <code>
+    @name.deleter
+    def name(self):
+        del self._name </code>
+        <br> 
+      </article>
+  </section>
+    <section class="main-section" id="End_Front_and_Back_End">
+      <header>End Front and Back End</header>
+     <article>
+       <h3>End Front</h3>
+       <p> It's the visual part of a website, what we can interact with. Who works with Front End is responsible for developing through code a graphical interface, usually with the base technologies of the Web, some languages or programs used in End Front are: </p>
+       <ul>
+         <li>HTML</li>
+         <li> CSS </li>
+         <li>JavaScript </li>
+       </ul>
+       <h3>Back End</h3>
+       <p> It is the part of the site that users have no contact with. The back end is a fundamental part of any website or web application, the server and the database that help to deliver user information from one interface. Some languages or programs used in Back End are: </p>
+       <ul> 
+         <li>PHP </li>
+         <li>Python</li>
+         <li>Ruby </li>
+         <li>Java </li>
+         <li>Rust </li>
+       </ul>
+         </article>
+       </section>
+      <br>
+        <section class="main-section" id="References">
+          <header>References</header>
+        
+          <article>
+            <ul>
+              <li>
+                All the documentation in this page is taken from
+                <a href="https://es.wikipedia.org/wiki/Python" target="_blank">Wikipedia</a>
+              </li>
+            </ul>
+          </article>
+        </section>
+        </main>
+      
+  
+  </body>
+  </html>
